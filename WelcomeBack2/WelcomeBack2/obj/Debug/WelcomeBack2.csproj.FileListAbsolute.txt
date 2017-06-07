@@ -1,0 +1,12 @@
+U:\C#\WelcomeBack2\WelcomeBack2\WelcomeBack2\bin\Debug\WelcomeBack2.exe.config
+U:\C#\WelcomeBack2\WelcomeBack2\WelcomeBack2\bin\Debug\WelcomeBack2.exe
+U:\C#\WelcomeBack2\WelcomeBack2\WelcomeBack2\bin\Debug\WelcomeBack2.pdb
+U:\C#\WelcomeBack2\WelcomeBack2\WelcomeBack2\obj\Debug\WelcomeBack2.csprojResolveAssemblyReference.cache
+U:\C#\WelcomeBack2\WelcomeBack2\WelcomeBack2\obj\Debug\WelcomeBack2.exe
+U:\C#\WelcomeBack2\WelcomeBack2\WelcomeBack2\obj\Debug\WelcomeBack2.pdb
+F:\Programming\C#\WelcomeBack2\WelcomeBack2\WelcomeBack2\bin\Debug\WelcomeBack2.exe.config
+F:\Programming\C#\WelcomeBack2\WelcomeBack2\WelcomeBack2\obj\Debug\WelcomeBack2.exe
+F:\Programming\C#\WelcomeBack2\WelcomeBack2\WelcomeBack2\obj\Debug\WelcomeBack2.pdb
+C:\Users\lorca\Documents\C#Projects\LorcanOTooleSD2\WelcomeBack2\WelcomeBack2\WelcomeBack2\bin\Debug\WelcomeBack2.exe.config
+C:\Users\lorca\Documents\C#Projects\LorcanOTooleSD2\WelcomeBack2\WelcomeBack2\WelcomeBack2\obj\Debug\WelcomeBack2.exe
+C:\Users\lorca\Documents\C#Projects\LorcanOTooleSD2\WelcomeBack2\WelcomeBack2\WelcomeBack2\obj\Debug\WelcomeBack2.pdb
